@@ -2,7 +2,7 @@
 
 I build and advise on AI products at scale.
 
-I am a senior product leader with 13+ years across Meta, Amazon, Home Depot, and Sears. At Meta, I led AI powered monetization work across Facebook and Instagram, contributing to $3B+ in ads revenue at 3B+ user scale. At Amazon, I grew Alexa Grocery Shopping acquisition 8x and scaled Amazon Business replenishment revenue from $500M to $2.3B.
+I am a senior product leader with 13+ years across Meta, Amazon, Home Depot, and Sears. At Meta, I led AI powered monetization work across Facebook and Instagram, contributing to $2B+ in ads revenue at 3B+ user scale. At Amazon, I grew Alexa Grocery Shopping acquisition 8x and scaled Amazon Business replenishment revenue from $500M to $2.3B.
 
 Now I am building practical AI products, publishing AI PM frameworks, and advising founders on product strategy, monetization, evaluation, and responsible AI adoption.
 
@@ -46,4 +46,4 @@ Now I am building practical AI products, publishing AI PM frameworks, and advisi
 
 LinkedIn: https://www.linkedin.com/in/neharika-kadali-1178b431/  
 Substack: https://neharikakadali.substack.com/?utm_campaign=profile_chips  
-Advisory inquiries: add email
+Advisory inquiries: neharikakadali@gmail.com
